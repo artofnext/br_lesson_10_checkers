@@ -1,0 +1,77 @@
+#border {
+    width: 830px;
+    height: 830px;
+    border: 5px solid #ccc;
+}
+
+#board {
+    position: relative;
+    left: 10px;
+    top: 10px;
+    width: 800px;
+    height: 800px;
+    border: 5px solid #000;
+}
+
+#board div {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+} 
+
+.black {
+    background-color: black;
+    
+}
+
+.pos0 {
+    left: 0;
+}
+.pos1 {
+    left: 100px;
+}
+.pos2 {
+    left: 200px;
+}
+.pos3 {
+    left: 300px;
+}
+.pos4 {
+    left: 400px;
+}
+.pos5 {
+    left: 500px;
+}
+.pos6 {
+    left: 600px;
+}
+.pos7 {
+    left: 700px;
+}
+
+.row0 {
+    top: 0;
+}
+.row1 {
+    top: 100px;
+}
+.row2 {
+    top: 200px;
+}
+.row3 {
+    top: 300px;
+}
+.row4 {
+    top: 400px;
+}
+.row5 {
+    top: 500px;
+}
+.row6 {
+    top: 600px;
+}
+.row7 {
+    top: 700px;
+}
+
+
